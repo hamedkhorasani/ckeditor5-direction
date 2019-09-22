@@ -30,4 +30,3 @@ Add RTL/LTR Direction Toolbar to Ckeditor 5
 8- "build/ckeditor.js" is ready
 
 
-<a href="http://dailydesign.ir/demo-ckeditor">Demo</a>
