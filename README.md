@@ -1,5 +1,5 @@
 # ckeditor5-direction
-Support RTL/LTR Direction Function to Ckeditor 5
+Add RTL/LTR Direction Toolbar to Ckeditor 5
 
 <h2>Installation AND Usage:</h2>
 
